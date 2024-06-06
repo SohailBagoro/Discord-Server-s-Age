@@ -1,5 +1,5 @@
-# Discord-Server-s-Age
-Get the age of a discord server using the server's ID
+# Discord-Servers-Age
+Turns a Discord ID (channel, server, user or message) into the creation date
 
 ## Acknowledgments
 
